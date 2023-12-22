@@ -1,0 +1,3 @@
+[submodule "vendor/psr/http-message"]
+	path = vendor/psr/http-message
+	url = https://github.com/php-fig/http-message.git
